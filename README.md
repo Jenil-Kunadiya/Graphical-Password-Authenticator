@@ -1,7 +1,7 @@
 
 # Graphical-Password-Authentication-Prototype
 
-We the team of five developed Graphical Password Authentication System || Smart India Hackathon
+We the team of five developed Graphical Password Authentication System || Design Engineering Project
 
 
 
