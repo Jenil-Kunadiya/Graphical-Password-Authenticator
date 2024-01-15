@@ -1,7 +1,7 @@
 
 # Graphical-Password-Authentication-Prototype
 
-We the team of six developed Graphical Password Authentication System || Smart India Hackathon
+We the team of four developed Graphical Password Authentication System || Smart India Hackathon
 
 
 
@@ -13,17 +13,13 @@ We the team of six developed Graphical Password Authentication System || Smart I
 
 ## Team ✨
 
-- Saransh Vashisht
+- Jenil Kunadiya
 
-- Sushant Kumar
+- Yash Patel
 
-- Sourabh Tripathi
+- Patel Yash
 
-- Rahul Kushwaha
-
-- Ramakant Kumar
-
-- Ash Aggarwal
+- Raj Limbacchiya 
 
 
 ## Screenshots📸
